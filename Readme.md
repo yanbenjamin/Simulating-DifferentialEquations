@@ -3,3 +3,10 @@ Contains a few simple Python notebooks for simulating and plotting trajectories 
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Elmer-pump-heatequation.png/350px-Elmer-pump-heatequation.png)
 
+## Contents 
+> Math 53: Differential Equations (includes both lecture and section notes)  \
+> Math 115: Functions of a Real Variable \
+> Math 108: Intro to Combinatorics 
+
+Also, 
+
