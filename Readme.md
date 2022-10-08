@@ -8,8 +8,8 @@ Contains a few simple Python notebooks for simulating and graphing solution traj
 > `'3DSimulator.ipynb'`  Lorenz Attractor equations and solution trajectories, butterfly effect & chaos, 3D Euler's method,  \
 > `'PendulumSimulator.ipynb'`  Pendulum as a 2D dynamical system, visual simulation of dampened pendulum
 
-<br/>
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Elmer-pump-heatequation.png/350px-Elmer-pump-heatequation.png)
+
 <!---
 1DSimulator.ipynb
 2DVectorFields.ipynb
