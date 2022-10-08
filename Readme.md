@@ -5,7 +5,7 @@ Contains a few simple Python notebooks for simulating and plotting trajectories 
 
 ## Contents 
 > `'1DSimulator.ipynb'`  Exponential differential equation, Euler's method, time series graphing \
-> `'2DVectorFields.ipynb'`  Competitive species model, 2D Euler's method, Predatory-Prey model (Lotka-Volterra equations) \
+> `'2DVectorFields.ipynb'`  Competitive species model, 2D Euler's method, predator-prey model (Lotka-Volterra equations) \
 > `'3DSimulator.ipynb'`  Lorenz Attractor equations and solution trajectories, butterfly effect & chaos, 3D Euler's method,  \
 > `'PendulumSimulator.ipynb'`  Pendulum as a 2D dynamical system, visual simulation of dampened pendulum
 
