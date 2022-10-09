@@ -1,5 +1,5 @@
 # Simulating & Graphing Solutions to Differential Equations
-Contains a few simple Python notebooks for simulating and graphing solution trajectories of ordinary differential equations, as well as generating vector fields in 2D and 3D, and applications to pendulum physics. My first GitHub repo—there is admittedly old and quite naive code. Looking back upon it, some of the style is simply not great.
+Contains a few simple Python notebooks for simulating and graphing solution trajectories of ordinary differential equations, as well as generating vector fields in 2D and 3D, and applications to pendulum physics. My first GitHub repo—there is admittedly old and quite naive code.
 <br/>
 
 ## Contents 
